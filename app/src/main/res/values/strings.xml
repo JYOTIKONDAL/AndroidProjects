@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubDemoProject</string>
+    <string name="btn_click">Please Click</string>
+</resources>
